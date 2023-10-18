@@ -1,11 +1,11 @@
 {
-  "incenseMode": false,
+  "incenseMode": true,
   "reactAfterCatch": false,
   "logCatches": true,
   "lowIVLog": "10.00",
   "highIVLog": "85.00",
   "logWebhook": "WEBHOOK TO LOG CATCHES",
-  "ownerID": [ "ID OF MAIN ACCOUNT", "..." ],
+  "ownerID": [ "1074241676970836034", "..." ],
   "prefix": "!",
   "globalCatch": false,
   "blacklistedGuilds": [ "716390832034414685", "..." ]
